@@ -43,7 +43,7 @@ if (stickerpack.spackname == '') {
   var sticker_name = 'MikuBotz'
   var sticker_author = 'Afgan  ID'
 } else {
-  var sticker_name = "MikuBotz'
+  var sticker_name = 'MikuBotz'
   var sticker_author = 'Created By Afgan ID'
 }
 
