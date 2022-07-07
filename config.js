@@ -7,8 +7,8 @@ global.owner = [
   ['6282125968810', 'Afgan  ID', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = [6282125968810] // Want some help?
+global.prems = [6282125968810] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -58,7 +58,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = 'MikuBotz'
 global.author = 'Created By Afgan ID'
-global.wm = '© Afgan  ID'
+global.wm = '_Powered by MikuBotz_'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
